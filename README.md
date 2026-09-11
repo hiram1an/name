@@ -4,8 +4,8 @@
 
 ## 🏗️ What I'm Building
 
-<Project name and link to the real project>
+project
 
 ## 🛠️ Tools I Use
 
-<Languages, frameworks, or tools you actually use>
+tool
