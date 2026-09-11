@@ -4,8 +4,8 @@
 
 ## 🏗️ What I'm Building
 
-project
+smart fridge system, bird finder device
 
 ## 🛠️ Tools I Use
 
-tool
+c++, arduino, python, esp 32, machine learning
